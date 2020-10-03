@@ -1,0 +1,1 @@
+Este script sirve para calcular si un bebé al momento de nacer (semana gestacional) es PEG, AEG o GEG según su peso.
